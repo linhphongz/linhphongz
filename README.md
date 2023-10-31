@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Obito(  a big fan of Naruto n touching Rin&Obito feelings ><)
+- 👋 Hi, I’m Nguyen Phong . 
 - I am from Vietnam- a student of Hanoi Uni of Sci & Tech .
 - 👀 I’m interested in learning Mathematics, Programming but I want someone teaches me :(
-- 🌱 I’m currently learning C/C++,Python(for AI) and preparing Java for OOP or sth else :3
+- 🌱 I’m currently learning C/C++,Java, especially AI,ML,DL to make a first project.
 - 📫 How to reach me : fb.com/nvphonglinh
 
 <!---
